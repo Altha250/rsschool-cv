@@ -192,6 +192,7 @@ a:hover {
 
 .footer a:hover {
   font-weight: 700;
+  color: red;
 }
 
 /* Media */
